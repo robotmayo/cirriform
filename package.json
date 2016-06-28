@@ -1,0 +1,16 @@
+{
+  "name": "cirriform",
+  "version": "0.1.0",
+  "description": "Lets see where this goes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robotmayo",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "hapi": "^13.4.1",
+    "pg-promise": "^5.0.3"
+  }
+}
